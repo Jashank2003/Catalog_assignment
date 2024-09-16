@@ -1,10 +1,13 @@
-# Node + Express Service Starter
+# Catalog Placements Assignment
 
-This is a simple API sample in Node.js with express.js based on [Google Cloud Run Quickstart](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-nodejs-service).
+This project is designed to solve a simplified version of Shamir's Secret Sharing algorithm using Lagrange interpolation. The goal is to decode base-encoded values from input JSON files, then calculate the constant term of a polynomial using Lagrange interpolation based on provided points.
 
-## Getting Started
+### Installation
 
-Server should run automatically when starting a workspace. To run manually, run:
-```sh
-npm run dev
-```
+1. Clone the repository to your local machine and run this commands:
+
+   ```bash
+   git clone https://github.com/your-username/catalog-placements-assignment.git
+   cd catalog-placements-assignment   
+   npm install
+   npm start
