@@ -1,6 +1,6 @@
 # Catalog Placements Assignment
 
-This project is designed to solve a simplified version of Shamir's Secret Sharing algorithm using Lagrange interpolation. The goal is to decode base-encoded values from input JSON files, then calculate the constant term of a polynomial using Lagrange interpolation based on provided points.
+The task is to decode base-encoded values from input JSON files, then calculate the constant term (secret key)  of a polynomial using Lagrange interpolation based on provided points.
 
 ### Installation
 
